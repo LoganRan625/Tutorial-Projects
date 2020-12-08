@@ -1,5 +1,6 @@
 #!/bin/python3
-
+# with basicshell.py
+# import this file to basicshell.py
 TT_int = 'TT_int'
 TT_float = 'TT_float'
 TT_plus = 'TT_plus'
